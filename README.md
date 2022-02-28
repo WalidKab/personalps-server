@@ -1,3 +1,26 @@
+# Instruction pour vous les loulous
+
+Installer Yarn:
+```
+npm install -g yarn
+```
+
+Duppliquer puis renommer le fichier .env.exemple => .env
+
+Puis rajoutrer les informations dans la variable d'environnement comme ci-dessous :
+APP_KEYS=testKey1
+
+Puis lancer yarn:
+```
+yarn develop
+```
+
+Installer PostMan
+
+
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
