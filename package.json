@@ -9,7 +9,9 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "yarn": "^1.22.18"
+  },
   "dependencies": {
     "@strapi/plugin-i18n": "4.1.1",
     "@strapi/plugin-users-permissions": "4.1.1",
